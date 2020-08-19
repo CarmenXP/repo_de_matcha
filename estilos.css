@@ -260,9 +260,7 @@ main {
   height: 100%;
 }
 @media (max-width: 575px) {
-  .navbar, .actions {
-    
-  }
+ 
   main {
     margin-top: 130px;
   }
@@ -335,7 +333,7 @@ main {
 }
 .card-container {
   background-color: #a1d683;
-  padding 35px;
+  padding: 35px;
 }
 .success-stories .stories-carousel .carousel-indicators {
   position: initial; /** ó: position: static; */
